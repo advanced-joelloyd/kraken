@@ -1,5 +1,18 @@
 body {
-    background-image: url('../img/kraken-santa.png');
+    background-image: url('../img/kraken-santa-800.png');
+    background-position: center top;
+}
+
+#krakens-lair {
+    height: 320px;
+}
+
+h2 {
+    font-size:40px;
+}
+
+h3 {
+    font-size: 36px;
 }
 
 #snowflakeContainer {
