@@ -7,12 +7,25 @@ body {
     height: 320px;
 }
 
+h1 {
+    margin-bottom: 40px;
+}
+
 h2 {
     font-size:40px;
 }
 
 h3 {
-    font-size: 36px;
+    font-size: 32px;
+}
+
+#xmas-friends li {
+    display: inline-block;
+    margin-right: 36px;
+}
+
+#joe li {
+    margin-top: 30px;
 }
 
 #snowflakeContainer {
